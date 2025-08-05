@@ -59,7 +59,9 @@ I believe in **systems over apps** — modular, self-hosted, and transparent sol
   <img src="https://img.shields.io/badge/DevOps-Harbor-2496ed?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Philosophy-Data%20Sovereignty-2E3440?style=flat&logo=lock&logoColor=white" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=houssemMekhelbi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 > _Philosophy: Minimalist tools, self-hosted systems, automation-first._
 
 ---
