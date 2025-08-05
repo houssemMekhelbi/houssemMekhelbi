@@ -4,23 +4,11 @@
 </p>
 *Building systems that simplify chaos — from code to life.*
 
-**Builder of Minimalist Ecosystems**  
+**Builder of Minimalist Ecosystems**
 Developer 🧑‍💻 • Automator 🔁 • Self-Hoster 🛡️ • System Designer ⚙️  
 
 > _“I don’t just write code. I craft ecosystems that empower.”_
 
-
----
-
-## 📑 Table of Contents
-- [About Me](#-Whoami)
-- [My Approach](#-my-approach)
-- [Projects](#-projects-im-crafting)
-- [Tech Stack](#-tech-stack)
-- [GitHub Stats](#-github-stats)
-- [Side Missions](#-Side-Missions)
-- [Connect](#-connect-with-me)
-- [Let’s Build Together](#-lets-build-together)
 
 ---
 
@@ -136,6 +124,6 @@ Why repeat manually what a shell script can do perfectly?
 
 ## 🌟 Let’s Build Together
 Got an idea for a self-hosted tool, automation workflow, or minimalist system?  
-[Reach out](mailto:houssem@example.com) or [open an issue](https://github.com/houssemMekhelbi/portfolio/issues) to collaborate!
+[Reach out](mailto:contact@houssemmekhelbi.com) or [open an issue](https://github.com/houssemMekhelbi/portfolio/issues) to collaborate!
 
 > _“Don’t work harder — script smarter.”_
