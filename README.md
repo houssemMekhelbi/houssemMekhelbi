@@ -1,81 +1,141 @@
-# 👋 Salaam, I'm Houssem – Architect of Code & Life
+#  Whoami
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=32&pause=200&color=006B3F&vCenter=true&width=635&lines=%24+whoami;Houssem%20%27Jackie%27%20Mekhelbi;echo+%22Architect+of+Code+%26+Life%22" alt="Typing SVG" />
+</p>
+*Building systems that simplify chaos — from code to life.*
 
-**Developer. Automator. Self-Hoster. Minimalist.**
+**Builder of Minimalist Ecosystems**  
+Developer 🧑‍💻 • Automator 🔁 • Self-Hoster 🛡️ • System Designer ⚙️  
 
-I don’t just build software — I build systems. From DevOps pipelines to healthy routines, my life is in beta and I’m loving the iteration.
+> _“I don’t just write code. I craft ecosystems that empower.”_
+
 
 ---
 
-## 🛠️ Projects I'm Crafting
-
-🌀 **CI/CD Self-Hosted Stack**  
-Push to Git → Trigger `n8n` → Analyze via `SonarQube` → Deploy via Docker + `Harbor` → Monitor everything with Grafana.  
-_📦 Full open-source control. Zero vendor lock-in._
-
-🌿 **Balcony Garden Dashboard**  
-Growing food in 1.5m² of sunlight?  
-Why not automate watering, track plant growth, and visualize yield on Grafana? (Work in progress…)
-
-🧠 **Qur’an Memorization Tracker**  
-Weekly surahs, spaced repetition, and Sunday reviews.  
-A tool to track progress, Tajweed focus, and spiritual growth.
+## 📑 Table of Contents
+- [About Me](#-Whoami)
+- [My Approach](#-my-approach)
+- [Projects](#-projects-im-crafting)
+- [Tech Stack](#-tech-stack)
+- [GitHub Stats](#-github-stats)
+- [Side Missions](#-Side-Missions)
+- [Connect](#-connect-with-me)
+- [Let’s Build Together](#-lets-build-together)
 
 ---
 
-## 🧰 My Toolbox
+## 🧠 My Approach
+I believe in **systems over apps** — modular, self-hosted, and transparent solutions that prioritize control and efficiency. From automating CI/CD pipelines to scripting life ops like meal prep, I design tools that scale seamlessly from code to reality.
 
-- 💻 Languages: Java, Bash, SQL, Python
-- 🔁 Automation: `n8n`, shell scripting, cron
-- ⚙️ DevOps: Docker, Gitolite, Harbor, SonarQube
-- 📊 Monitoring: Grafana, Prometheus, custom scripts
-- 🔐 Philosophy: Self-host first. Understand before using.
-
----
-
-## 📈 My Workflow Philosophy
-
-> "**Code like a craftsman, deploy like an architect, and live like a monk.**"
-
-- 🧪 Automate what’s repeatable
-- 🧱 Keep things modular and minimal
-- 🔍 Track and reflect (in code and life)
+- **Minimalism**: Low-footprint tools and environments (e.g., 300MB RAM idle systems).
+- **Automation-First**: Streamlined workflows with n8n, shell scripts, and CI/CD.
+- **Data Sovereignty**: Self-hosted infrastructure for privacy and independence.
 
 ---
 
-## 🌍 Let's Connect
+## 🚀 Projects I’m Crafting
 
-- 📫 Contact: [your-email@domain.com]
-- 🔗 LinkedIn / Blog / [Other]
-- 💬 Ask me about: Self-hosted systems, DevOps from scratch, cooking with just 2 pots
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| 🧮 **Personal Finance Manager** | A modular, local-first financial cockpit to plan income, track debts, and optimize budgets. *Why?* To empower users with transparent financial control. | Quarkus, Java 21, Grafana, Docker | [████████ 80%] |
+| 🔐 **Secure Mailing System** | Privacy-first email with `.p12` cert auth and SMTP/IMAP support. *Why?* To keep sensitive communications off the cloud. | Quarkus, Java 21, Docker | [███ 30%] |
+| 🔁 **Self-Hosted CI/CD Stack** | Git push → n8n → SonarQube → Docker → Harbor. *Why?* For zero vendor lock-in and full pipeline transparency. | gitolite, n8n, Docker, Grafana | [█████ 50%] |
+| 🌿 **Balcony Garden Dashboard** | Solar and watering metrics visualized in Grafana. *Why?* Because plants deserve KPIs too! | Python, rpi, Prometheus | [██ 20%] |
+
+> _“These aren’t just projects — they’re proofs of concept for a sovereign digital life.”_  
+
 
 ---
 
-## 📌 Random Personal Facts
+## 🧰 Tech Stack
 
-- 🥗 Switching to a bulk-cooked, homemade, minimalist diet
-- 🧴 Making 100ml smoothie shots to level up health
-- 🌱 Growing food on my balcony (yes, with Grafana graphs)
-- 📖 Memorizing the Qur’an, one surah per week
-- ⚔️ Terminal alias master – ask me for zsh tricks
+### Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,grafana,spring,arch&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,raspberrypi&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vim,idea,git,github,postgres&perline=8" />
+</p>
+
+### Specialties
+- **Self-Hosted Infrastructure**: Mail servers, CI/CD, and monitoring stacks on minimal hardware.
+- **Low-Footprint Dev**: 300MB RAM idle systems with neovim and tmux.
+- **Automation-First**: n8n workflows, shell scripts, and life ops automation.
+
+### Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-n8n-orange?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Grafana-ff9a00?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus-orange?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Harbor-2496ed?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Philosophy-Data%20Sovereignty-2E3440?style=flat&logo=lock&logoColor=white" />
+</p>
+
+> _Philosophy: Minimalist tools, self-hosted systems, automation-first._
 
 ---
 
-> _“A good system shortens the road to the goal.”_ – Orison Swett Marden  
-> …and I like building those systems.
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=houssemMekhelbi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=houssemMekhelbi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!--
-**houssemMekhelbi/houssemMekhelbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemMekhelbi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛰️ Side Missions
+
+### 🐧 Minimalist Arch Linux Engineering
+My daily driver: Arch + i3 + neovim. Hand-curated dotfiles for efficiency and control.  
+→ [View my dotfiles](https://github.com/houssemMekhelbi/dotfiles) 🛠️  
+![Minimal Setup](https://github.com/houssemMekhelbi/dotfiles/raw/main/screenshot.png)
+
+### 🔍 Low-Footprint Dev Environments
+Optimized for performance: neovim, tmux, custom shell aliases, and clean CLI UX.  
+My system idles at ~300MB RAM, ready to build anything.
+
+### ⚡ Self-Hosted Everything
+Mail servers, CI/CD, dashboards, backups — all running on my own infra.  
+Data sovereignty is my default setting.
+
+### 📦 Scripted Life Ops
+Applying system design to life: automated finances, meal prep, and more.  
+Why repeat manually what a shell script can do perfectly?
+
+> _“My side projects aren’t side — they’re upstream of everything I do.”_
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:contact@houssemmekhelbi.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/houssemMekhelbi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@houssemMekhelbi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://houssemmekhelbi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-houssemmekhelbi.com-0A66C2?style=for-the-badge&logo=internetarchive&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/houssemMekhelbi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌟 Let’s Build Together
+Got an idea for a self-hosted tool, automation workflow, or minimalist system?  
+[Reach out](mailto:houssem@example.com) or [open an issue](https://github.com/houssemMekhelbi/portfolio/issues) to collaborate!
+
+> _“Don’t work harder — script smarter.”_
