@@ -16,7 +16,7 @@ Developer 🧑‍💻 • Automator 🔁 • Self-Hoster 🛡️ • System Desi
 I believe in **systems over apps** — modular, self-hosted, and transparent solutions that prioritize control and efficiency. From automating CI/CD pipelines to scripting life ops like meal prep, I design tools that scale seamlessly from code to reality.
 
 - **Minimalism**: Low-footprint tools and environments.
-- **Automation-First**: Streamlined workflows with n8n, shell scripts, and CI/CD.
+- **Automation-First**: Streamlined workflows with shell scripts, and CI/CD.
 - **Data Sovereignty**: Self-hosted infrastructure for privacy and independence.
 
 ---
