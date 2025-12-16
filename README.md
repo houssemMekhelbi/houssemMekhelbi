@@ -84,11 +84,6 @@ I believe in **systems over apps** — modular, self-hosted, and transparent sol
 
 ## 🛰️ Side Missions
 
-### 🐧 Minimalist Arch Linux Engineering
-My daily driver: Arch + openbox + neovim. Hand-curated dotfiles for efficiency and control.  
-→ [View my dotfiles](https://github.com/houssemMekhelbi/dotfiles) 🛠️  
-![Minimal Setup](https://github.com/houssemMekhelbi/dotfiles/raw/main/screenshot.png)
-
 ### 🔍 Low-Footprint Dev Environments
 Optimized for performance: neovim, tmux, custom shell aliases, and clean CLI UX.  
 My system idles at ~300MB RAM, ready to build anything.
