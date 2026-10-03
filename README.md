@@ -1,126 +1,122 @@
-#  Whoami
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=32&pause=200&color=006B3F&vCenter=true&width=635&lines=%24+whoami;Houssem%20%27Jackie%27%20Mekhelbi;echo+%22Architect+of+Code+%26+Life%22" alt="Typing SVG" />
-</p>
-*Building systems that simplify chaos — from code to life.*
-
-**Builder of Minimalist Ecosystems**
-Developer 🧑‍💻 • Automator 🔁 • Self-Hoster 🛡️ • System Designer ⚙️  
-
-> _“I don’t just write code. I craft ecosystems that empower.”_
-
-
----
-
-## 🧠 My Approach
-I believe in **systems over apps** — modular, self-hosted, and transparent solutions that prioritize control and efficiency. From automating CI/CD pipelines to scripting life ops like meal prep, I design tools that scale seamlessly from code to reality.
-
-- **Minimalism**: Low-footprint tools and environments.
-- **Automation-First**: Streamlined workflows with shell scripts, and CI/CD.
-- **Data Sovereignty**: Self-hosted infrastructure for privacy and independence.
-
----
-
-## 🚀 Projects I’m Crafting
-
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🧮 **Personal Finance Manager** | A modular, local-first financial cockpit to plan income, track debts, and optimize budgets. *Why?* To empower users with transparent financial control. | Quarkus, Java 21, Grafana, Docker | [██ 20%] |
-| 🔐 **Secure Mailing System** | Privacy-first email with `.p12` cert auth and SMTP/IMAP support. *Why?* To keep sensitive communications off the cloud. | Quarkus, Java 21, Docker | [███ 30%] |
-| 🔁 **Self-Hosted CI/CD Stack** | Git push → n8n → SonarQube → Docker → Harbor. *Why?* For zero vendor lock-in and full pipeline transparency. | gitolite, n8n, Docker, Grafana | [████ 40%] |
-| 🌿 **Balcony Garden Dashboard** | Solar and watering metrics visualized in Grafana. *Why?* Because plants deserve KPIs too! | Python, rpi, Prometheus | [██ 20%] |
-
-> _“These aren’t just projects — they’re proofs of concept for a sovereign digital life.”_  
-
-
----
-
-## 🧰 Tech Stack
-
-### Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,grafana,spring,arch&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,raspberrypi&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vim,idea,git,github,postgres&perline=8" />
-</p>
-
-### Specialties
-- **Self-Hosted Infrastructure**: Mail servers, CI/CD, and monitoring stacks on minimal hardware.
-- **Low-Footprint Dev**: minimalist systems and servers.
-- **Automation-First**: n8n workflows, shell scripts, and life ops automation.
-
-### Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation-n8n-orange?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-ff9a00?style=flat&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus-orange?style=flat&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Harbor-2496ed?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Philosophy-Data%20Sovereignty-2E3440?style=flat&logo=lock&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=houssemMekhelbi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-> _Philosophy: Minimalist tools, self-hosted systems, automation-first._
-
----
-
-## 📈 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-light.png">
+  <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-light.png" alt="Houssem Mekhelbi, Java developer in Marseille. Backend, DevOps, Linux, security." width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=houssemMekhelbi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="mailto:contact@houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-email.png" alt="Email" height="34"></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/houssemMekhelbi"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-linkedin.png" alt="LinkedIn" height="34"></a>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=houssemMekhelbi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+# Hey, I'm Houssem 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemMekhelbi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Also known as Jackie: a Java developer, and the IT guy who never stayed in one lane. Most people pick between writing the code, shipping it, running the servers and securing them. I kept all four.
 
----
+When a question bugs me, I don't argue about it. I build a small proof and measure. When a chore bugs me twice, it gets a script. Pull up a chair, look around, and take what's useful.
 
-## 🛰️ Side Missions
+```text
+jackie@marseille
+────────────────────────────────────────────────────
+role       whichever one the problem needs
+backend    Java · Quarkus · Spring · PostgreSQL
+infra      Linux · systemd · nginx · Docker · Podman
+pipeline   Git · CI/CD · Grafana · Prometheus
+scripts    Bash · Python · Lua
+desk       Arch (yes, btw) · Hyprland · Neovim · tmux
+status     open to work
+```
 
-### 🔍 Low-Footprint Dev Environments
-Optimized for performance: neovim, tmux, custom shell aliases, and clean CLI UX.  
-My system idles at ~300MB RAM, ready to build anything.
+## 🎩 Four hats, one head
 
-### ⚡ Self-Hosted Everything
-Mail servers, CI/CD, dashboards, backups — all running on my own infra.  
-Data sovereignty is my default setting.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/bar-backend.svg" alt="" width="100%" height="4"><br>
+      <b><code>01</code> Backend developer ☕</b><br>
+      Java first. Services and APIs with Quarkus and Spring, the data behind them, and a habit of measuring before believing.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/bar-devops.svg" alt="" width="100%" height="4"><br>
+      <b><code>02</code> DevOps 🚢</b><br>
+      Containers, pipelines and dashboards. Code isn't done when it compiles. It's done when it ships and I can watch it run.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/bar-linux.svg" alt="" width="100%" height="4"><br>
+      <b><code>03</code> Linux admin 🐧</b><br>
+      I run my own machines and my own servers: systemd units, nginx, a self-hosted git. If it boots, I want to know why.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/bar-security.svg" alt="" width="100%" height="4"><br>
+      <b><code>04</code> Security hardening 🔒</b><br>
+      Encrypted disks, Secure Boot and hooks that refuse a bad push. I assume the mistake will happen and build the guard rail first.
+    </td>
+  </tr>
+</table>
 
-### 📦 Scripted Life Ops
-Applying system design to life: automated finances, meal prep, and more.  
-Why repeat manually what a shell script can do perfectly?
+## 🎨 Side quest: the hattin themes
 
-> _“My side projects aren’t side — they’re upstream of everything I do.”_
+What happens when I get annoyed at my own desktop: 11 complete Hyprland themes, 16 desktops counting the dark and light versions. I build them like any other system: Hyprland configured in Lua, icons drawn by Python scripts, and an installer that offers a dry run, backs up every file it replaces and can be undone.
 
----
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/babylon"><img src="https://raw.githubusercontent.com/houssemMekhelbi/babylon/main/.github/banner.png" alt="Babylon banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/babylon"><b>Babylon</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/girih"><img src="https://raw.githubusercontent.com/houssemMekhelbi/girih/main/.github/banner.png" alt="Girih banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/girih"><b>Girih</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/alf-layla"><img src="https://raw.githubusercontent.com/houssemMekhelbi/alf-layla/main/.github/banner.png" alt="Alf Layla banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/alf-layla"><b>Alf Layla</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/sumi"><img src="https://raw.githubusercontent.com/houssemMekhelbi/sumi/main/.github/banner.png" alt="Sumi banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/sumi"><b>Sumi</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/wangan"><img src="https://raw.githubusercontent.com/houssemMekhelbi/wangan/main/.github/banner.png" alt="Wangan banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/wangan"><b>Wangan</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/nordschleife"><img src="https://raw.githubusercontent.com/houssemMekhelbi/nordschleife/main/.github/banner.png" alt="Nordschleife banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/nordschleife"><b>Nordschleife</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/quartermile"><img src="https://raw.githubusercontent.com/houssemMekhelbi/quartermile/main/.github/banner.png" alt="Quarter Mile banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/quartermile"><b>Quarter Mile</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/kaiju"><img src="https://raw.githubusercontent.com/houssemMekhelbi/kaiju/main/.github/banner.png" alt="Kaiju banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/kaiju"><b>Kaiju</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/kyoka-alpha"><img src="https://raw.githubusercontent.com/houssemMekhelbi/kyoka-alpha/main/.github/banner.png" alt="Kyoka alpha banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/kyoka-alpha"><b>Kyoka alpha</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/kyoka-delta"><img src="https://raw.githubusercontent.com/houssemMekhelbi/kyoka-delta/main/.github/banner.png" alt="Kyoka delta banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/kyoka-delta"><b>Kyoka delta</b></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/houssemMekhelbi/bitrot"><img src="https://raw.githubusercontent.com/houssemMekhelbi/bitrot/main/.github/banner.png" alt="Bitrot banner" width="100%"></a><br>
+      <a href="https://github.com/houssemMekhelbi/bitrot"><b>Bitrot</b></a>
+    </td>
+    <td align="center"><sub>next one is in the workshop</sub></td>
+  </tr>
+</table>
 
-## 🤝 Connect With Me
+## 📬 Say hi
 
-<p align="center">
-  <a href="mailto:contact@houssemmekhelbi.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/houssemMekhelbi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@houssemMekhelbi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://houssemmekhelbi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-houssemmekhelbi.com-0A66C2?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/houssemMekhelbi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌟 Let’s Build Together
-Got an idea for a self-hosted tool, automation workflow, or minimalist system?  
-[Reach out](mailto:contact@houssemmekhelbi.com) to collaborate!
-
-> _“Don’t work harder — script smarter.”_
+I'm open to work, to questions, and to technical arguments, as long as you bring numbers. Write to [contact@houssemmekhelbi.com](mailto:contact@houssemmekhelbi.com) or find me on [LinkedIn](https://linkedin.com/in/houssemMekhelbi).
