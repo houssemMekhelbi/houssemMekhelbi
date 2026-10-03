@@ -7,7 +7,9 @@
 <p align="center">
   <a href="mailto:contact@houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-email.png" alt="Email" height="34"></a>
   &nbsp;
-  <a href="https://linkedin.com/in/houssemMekhelbi"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-linkedin.png" alt="LinkedIn" height="34"></a>
+  <a href="https://www.linkedin.com/in/makhelbi-houssem"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-linkedin.png" alt="LinkedIn" height="34"></a>
+  &nbsp;
+  <a href="https://houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-portfolio.png" alt="Portfolio" height="34"></a>
 </p>
 
 # Hey, I'm Houssem 👋
@@ -119,4 +121,4 @@ What happens when I get annoyed at my own desktop: 11 complete Hyprland themes, 
 
 ## 📬 Say hi
 
-I'm open to work, to questions, and to technical arguments, as long as you bring numbers. Write to [contact@houssemmekhelbi.com](mailto:contact@houssemmekhelbi.com) or find me on [LinkedIn](https://linkedin.com/in/houssemMekhelbi).
+I'm open to work, to questions, and to technical arguments, as long as you bring numbers. Write to [contact@houssemmekhelbi.com](mailto:contact@houssemmekhelbi.com), find me on [LinkedIn](https://www.linkedin.com/in/makhelbi-houssem), or see the rest of my work at [houssemmekhelbi.com](https://houssemmekhelbi.com).
