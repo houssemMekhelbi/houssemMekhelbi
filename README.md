@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-light.png">
-  <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-light.png" alt="Houssem Mekhelbi, Java developer in Marseille. Backend, DevOps, Linux, security." width="100%">
+  <img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/header-light.png" alt="Houssem Mekhelbi, Java developer in Hamburg. Backend, DevOps, Linux, security." width="100%">
 </picture>
 
 <p align="center">
-  <a href="mailto:contact@houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-email.png" alt="Email" height="34"></a>
+  <a href="mailto:hello@houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-email.png" alt="Email" height="34"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/makhelbi-houssem"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-linkedin.png" alt="LinkedIn" height="34"></a>
+  <a href="https://www.linkedin.com/in/mekhelbi-houssem"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-linkedin.png" alt="LinkedIn" height="34"></a>
   &nbsp;
   <a href="https://houssemmekhelbi.com"><img src="https://raw.githubusercontent.com/houssemMekhelbi/houssemMekhelbi/main/assets/button-portfolio.png" alt="Portfolio" height="34"></a>
 </p>
@@ -19,7 +19,7 @@ Also known as Jackie: a Java developer, and the IT guy who never stayed in one l
 When a question bugs me, I don't argue about it. I build a small proof and measure. When a chore bugs me twice, it gets a script. Pull up a chair, look around, and take what's useful.
 
 ```text
-jackie@marseille
+jackie@hamburg
 ────────────────────────────────────────────────────
 role       whichever one the problem needs
 backend    Java · Quarkus · Spring · PostgreSQL
@@ -58,6 +58,12 @@ status     open to work
     </td>
   </tr>
 </table>
+
+## 🧪 The lab
+
+Small proofs of concept. Each one exists to answer a single question with running code and numbers instead of opinions.
+
+- **[Virtual threads vs a tuned thread pool](https://github.com/houssemMekhelbi/labs)** · Java 21 · Spring Boot 3 · HikariCP · PostgreSQL<br>*Do virtual threads beat a tuned platform-thread pool once the database connection pool is the bottleneck? Measured answer: no. Same throughput, and a 2 to 3x worse p99 under overload.*
 
 ## 🎨 Side quest: the hattin themes
 
@@ -121,4 +127,4 @@ What happens when I get annoyed at my own desktop: 11 complete Hyprland themes, 
 
 ## 📬 Say hi
 
-I'm open to work, to questions, and to technical arguments, as long as you bring numbers. Write to [contact@houssemmekhelbi.com](mailto:contact@houssemmekhelbi.com), find me on [LinkedIn](https://www.linkedin.com/in/makhelbi-houssem), or see the rest of my work at [houssemmekhelbi.com](https://houssemmekhelbi.com).
+I'm open to work, to questions, and to technical arguments, as long as you bring numbers. Write to [hello@houssemmekhelbi.com](mailto:hello@houssemmekhelbi.com), find me on [LinkedIn](https://www.linkedin.com/in/mekhelbi-houssem), or see the rest of my work at [houssemmekhelbi.com](https://houssemmekhelbi.com).
